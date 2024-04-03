@@ -23,4 +23,4 @@ const OrganizationIdPage = async () => {
   );
 };
 
-export default OrganizationIdPage;
+export default OrganizationIdPage; 
